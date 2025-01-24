@@ -1,7 +1,7 @@
 # Square Root Bisection Method
 
 ## Overview
-This program was created as part of the FreeCodeCamp curriculum to practice Python programming and problem-solving.
+This program was created as part of the FreeCodeCamp (The Scientific Computing with Python) curriculum to practice Python programming and problem-solving.
 
 This repository contains a Python program to approximate the square root of a non-negative number using the bisection method. It is a simple, iterative approach that narrows down the range of possible values for the square root until it converges within a specified tolerance.
 
